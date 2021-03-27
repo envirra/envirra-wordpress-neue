@@ -47,9 +47,9 @@ In order to help speed up solution for your requests. Please follow steps below 
 5. Disable any additional 3rd party plugins you are using to check if it fixes the issue.
 6. If you can’t find the answer. Submit your question through our discussion forum with URL of page which has issue.
 
-## Migrate To Version 4.x
+## Migrate To Version 2.x
 
-Since **${var.theme-name}** 4.x has newly architecture to support future of magazine site, Migration from older **${var.theme-name}** version (3.x or earlier) is not strongly recommended. If you want to use **${var.theme-name}** 4.x with the site that created with older **${var.theme-name}** version, Please note that the following data cannot be used in the new **${var.theme-name}** version and you need to re-entry these data by manual.
+Since **${var.theme-name}** 2.x has newly architecture to support future of magazine site, Migration from older **${var.theme-name}** version (1.x or earlier) is not strongly recommended. If you want to use **${var.theme-name}** 2.x with the site that created with older **${var.theme-name}** version, Please note that the following data cannot be used in the new **${var.theme-name}** version and you need to re-entry these data by manual.
 
 * Review data
 * Post options
@@ -59,4 +59,4 @@ Since **${var.theme-name}** 4.x has newly architecture to support future of maga
 * Theme options
 * Extra options provided by theme
 
-Anyway, We still support **${var.theme-name}** 3.x for Wordpress compatibility and security issues until December 31, 2021. If an update for **${var.theme-name}** 3.x is available, It will be included in the full package zip file (Please download All files from ThemeForest download page and the updated theme file will be located inside the zip file).
+Anyway, We still support **${var.theme-name}** 1.x for Wordpress compatibility and security issues until December 31, 2021. If an update for **${var.theme-name}** 1.x is available, It will be included in the full package zip file (Please download All files from ThemeForest download page and the updated theme file will be located inside the zip file).
